@@ -170,7 +170,7 @@ body {
 #counter {
   text-align: center;
   padding: 8px 10px;
-  font-size: 8px;
+  font-size: 8px !important;
   margin-bottom: 8px;
 }
 
